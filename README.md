@@ -1,5 +1,5 @@
 # Bookmark-saver
- Save and Manage websites links directly in the browser
+ This is a browser mini-app Save and Manage websites links directly in the browser
 ## Features
 - Add and Delete bookmarks 
 - Open saved sites in a new tab
