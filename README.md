@@ -7,3 +7,5 @@
 ## How to Run 
 Open 'index.html' in a browser
 
+##bookmark mini app interface
+<img width="858" height="475" alt="bookmarks mini app " src="https://github.com/user-attachments/assets/e53ff1e6-f28a-48d0-9803-591bd5ec0029" />
